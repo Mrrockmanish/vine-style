@@ -1,7 +1,7 @@
 <script setup>
 
-import OHeader from "./components/organisms/o-header.vue";
-import OProductDetails from './components/organisms/o-product-details.vue'
+import OHeader from "../organisms/o-header.vue";
+import OProductDetails from '../organisms/o-product-details.vue'
 </script>
 
 <template>

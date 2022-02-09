@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import App from './components/templates/ProductPage.vue'
 import './css/main.scss'
 import './css/tailwind.css'
 import './css/fonts.css'
